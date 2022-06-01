@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+}
+.career{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+}
+.card{
+    margin: 10px;
+    background-color: #f1f1f1;
+}
+.card>h3{
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.card>button{
+    padding: 10px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.logo > div {
+    /* background-color: #f1f1f1; */
+    
+    margin: 5px;
+    padding: 10px;
+}
+
+.logo1>img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.logo2>img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.title{
+    background-color: #f1f1f1;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    margin: 5px;
+    padding: 5px;
+    font-size:xx-large ;
+    text-align: center;
+    
+}
